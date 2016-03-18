@@ -2,7 +2,9 @@
 """
 Created on Tue Feb 23 04:28:19 2016
 
-@author: ubuntu
+@author: lotter
+Please look at baseline file required: Record basline for new device and fftbin size
+Change directories to suite you file structure
 """
 
 import time
