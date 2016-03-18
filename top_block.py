@@ -4,6 +4,7 @@
 # GNU Radio Python Flow Graph
 # Title: Top Block
 # Generated: Thu Mar 17 09:26:25 2016
+# L Kock
 ##################################################
 
 if __name__ == '__main__':
